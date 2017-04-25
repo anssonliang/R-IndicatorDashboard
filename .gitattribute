@@ -1,2 +1,2 @@
-js/* linguist-vendored
-css/* linguist-vendored
+* linguist-vendored
+*.r linguist-vendored=false
